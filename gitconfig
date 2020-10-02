@@ -48,4 +48,6 @@
   mergeoptions = --no-edit
 [user]
 	email = hakanbiyik91@gmail.com
-	name = HaHAKAN BIYIK
+	name = HAKAN BIYIK
+[credential]
+	helper = cache --timeout=600
